@@ -1,6 +1,6 @@
 {
   "name": "Gustavo H N Godoi",
-  "photo": "https://github.com/settings/profile",
+  "photo": "https://avatars.githubusercontent.com/u/179274320?v=4",
   "job": "Estudante de Engenhraia de Software",
   "location": "Belo Horizonte - MG",
   "phone": "(31) 98272-2147",
@@ -8,28 +8,28 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "HTML",
+        "logo": "./imgs/html.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "CSS",
+        "logo": "./imgs/css.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "JavaScript",
+        "logo": "./imgs/js.png"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "name": "Node.js",
+        "logo": "./imgs/nodejs.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "Git",
+        "logo": "./imgs/git.png"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "GitHub",
+        "logo": "./imgs/github.png"
       }
     ],
     "softSkills": [
@@ -39,25 +39,27 @@
       "Organização"
     ]
   },
-  "languages": [
-    "Português BR",
-    "Inglês (basico)"
-  ],
+  "languages": ["Português BR", "Inglês (basico)"],
   "portfolio": [
     {
-      "name": "Criação de uma Pokedex consumindo PokeAPI e aplicando efeito 3D.",
+      "name": "Pokedex com PokeAPI e efeito 3D",
       "url": "https://github.com/Gusta-2024/js-developer-pokedex",
-      "github": true
+      "preview": "https://gusta-2024.github.io/js-developer-pokedex/",
+      "github": true,
+      "description": "Projeto que consome a PokeAPI para exibir uma lista de Pokémons. Implementei um efeito 3D e manipulação do DOM para uma experiência mais interativa."
     },
     {
-      "name": "Criação de um Jo-Ken-Po utilizando logica de proegramaçaõ com javaScrip.",
+      "name": "Jogo de Jo-Ken-Po (Pedra, Papel, Tesoura)",
       "url": "https://github.com/Gusta-2024/Jogo-Yu-Gi-Oh-main",
-      "github": true
+      "github": true,
+      "description": "Desenvolvimento de um jogo clássico de Pedra, Papel, Tesoura, utilizando **JavaScript** para a lógica de programação e **HTML** e **CSS** para a interface do usuário. Este projeto demonstra habilidades na manipulação do DOM e na criação de interações dinâmicas."
     }
   ],
   "professionalExperience": [
     {
-      "name": "Sem experiencia de trabalho no mercado."
+      "name": "Estudante de Engenharia de Software",
+      "period": "2023 - Presente",
+      "description": "Atualmente cursando Engenharia de Software, com foco em desenvolvimento web e mobile. Tenho aprofundado meus conhecimentos em lógica de programação e arquitetura de sistemas."
     }
-  ]   
+  ]
 }
