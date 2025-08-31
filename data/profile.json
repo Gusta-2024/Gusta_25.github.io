@@ -1,0 +1,63 @@
+{
+  "name": "Gustavo H N Godoi",
+  "photo": "https://github.com/settings/profile",
+  "job": "Estudante de Engenhraia de Software",
+  "location": "Belo Horizonte - MG",
+  "phone": "(31) 98272-2147",
+  "email": "gustavo.h.n.godoi@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Nodejs",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+      },
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+      },
+      {
+        "name": "Mongodb",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+      },
+      {
+        "name": "Postgresql",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (basico)"
+  ],
+  "portfolio": [
+    {
+      "name": "Criação de uma Pokedex consumindo PokeAPI e aplicando efeito 3D.",
+      "url": "https://github.com/Gusta-2024/js-developer-pokedex",
+      "github": true
+    },
+    {
+      "name": "Criação de um Jo-Ken-Po utilizando logica de proegramaçaõ com javaScrip.",
+      "url": "https://github.com/Gusta-2024/Jogo-Yu-Gi-Oh-main",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Sem experiencia de trabalho no mercado."
+    }
+  ]   
+}
