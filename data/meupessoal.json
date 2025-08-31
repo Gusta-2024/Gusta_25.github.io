@@ -9,29 +9,30 @@
     "hardSkills": [
       {
         "name": "HTML",
-        "logo": "./imgs/html.png"
+        "logo": "https://gusta-2024.github.io/Gusta_25.github.io/data/html.png"
       },
       {
         "name": "CSS",
-        "logo": "./imgs/css.png"
+        "logo": "https://gusta-2024.github.io/Gusta_25.github.io/data/css.png"
       },
       {
         "name": "JavaScript",
-        "logo": "./imgs/js.png"
+        "logo": "https://gusta-2024.github.io/Gusta_25.github.io/data/js.png"
       },
       {
         "name": "Node.js",
-        "logo": "./imgs/nodejs.png"
+        "logo": "https://gusta-2024.github.io/Gusta_25.github.io/data/nodejs.png"
       },
       {
         "name": "Git",
-        "logo": "./imgs/git.png"
+        "logo": "https://gusta-2024.github.io/Gusta_25.github.io/data/git.png"
       },
       {
         "name": "GitHub",
-        "logo": "./imgs/github.png"
+        "logo": "https://gusta-2024.github.io/Gusta_25.github.io/data/github.png"
       }
     ],
+
     "softSkills": [
       "Empatia",
       "Trabalho em equipe",
