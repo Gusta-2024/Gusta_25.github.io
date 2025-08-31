@@ -9,27 +9,27 @@
     "hardSkills": [
       {
         "name": "HTML",
-        "logo": "https://gusta-2024.github.io/Gusta_25.github.io/data/html.png"
+        "logo": "./imgs/html.png"
       },
       {
         "name": "CSS",
-        "logo": "https://gusta-2024.github.io/Gusta_25.github.io/data/css.png"
+        "logo": "./data/imgs/html.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://gusta-2024.github.io/Gusta_25.github.io/data/js.png"
+        "logo": "./data/imgs/js.png"
       },
       {
         "name": "Node.js",
-        "logo": "https://gusta-2024.github.io/Gusta_25.github.io/data/nodejs.png"
+        "logo": "./data/nodejs.png"
       },
       {
         "name": "Git",
-        "logo": "https://gusta-2024.github.io/Gusta_25.github.io/data/git.png"
+        "logo": "./data/git.png"
       },
       {
         "name": "GitHub",
-        "logo": "https://gusta-2024.github.io/Gusta_25.github.io/data/github.png"
+        "logo": "./data/github.png"
       }
     ],
 
